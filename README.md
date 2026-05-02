@@ -48,19 +48,19 @@ Additionally:
 
 #### Schematic
 
-![Inverter 20/10 Schematic](images/inverter_20_10_schematic.png)
+![Inverter 20/10 Schematic](images/20_10/inverter_20_10_schematic.png)
 
 #### Icon
 
-![Inverter 20/10 Icon](images/inverter_20_10_icon.png)
+![Inverter 20/10 Icon](images/20_10/inverter_20_10_icon.png)
 
 #### Layout
 
-![Inverter 20/10 Layout](images/inverter_20_10_layout.png)
+![Inverter 20/10 Layout](images/20_10/inverter_20_10_layout.png)
 
 #### DRC & NCC Verification
 
-![Inverter 20/10 DRC](images/inverter_20_10_drc.png)
+![Inverter 20/10 DRC](images/20_10/inverter_20_10_drc.png)
 
 ---
 
@@ -68,19 +68,19 @@ Additionally:
 
 #### Schematic
 
-![Inverter 10/10 Schematic](images/inverter_10_10_schematic.png)
+![Inverter 10/10 Schematic](images/10_10/inverter_10_10_schematic.png)
 
 #### Icon
 
-![Inverter 10/10 Icon](images/inverter_10_10_icon.png)
+![Inverter 10/10 Icon](images/10_10/inverter_10_10_icon.png)
 
 #### Layout
 
-![Inverter 10/10 Layout](images/inverter_10_10_layout.png)
+![Inverter 10/10 Layout](images/10_10/inverter_10_10_layout.png)
 
 #### DRC & NCC Verification
 
-![Inverter 10/10 DRC](images/inverter_10_10_drc.png)
+![Inverter 10/10 DRC](images/10_10/inverter_10_10_drc.png)
 
 ---
 
@@ -88,35 +88,31 @@ Additionally:
 
 #### Schematic
 
-![Inverter 15/5 Schematic](images/inverter_15_5_schematic.png)
+![Inverter 15/5 Schematic](images/15_05/inverter_15_5_schematic.png)
 
 #### Icon
 
-![Inverter 15/5 Icon](images/inverter_15_5_icon.png)
+![Inverter 15/5 Icon](images/15_05/inverter_15_5_icon.png)
 
 #### Layout
 
-![Inverter 15/5 Layout](images/inverter_15_5_layout.png)
+![Inverter 15/5 Layout](images/15_05/inverter_15_5_layout.png)
 
 #### DRC & NCC Verification
 
-![Inverter 15/5 DRC](images/inverter_15_5_drc.png)
+![Inverter 15/5 DRC](images/15_05/inverter_15_5_drc.png)
 
 ---
 
 ## 2. Voltage Transfer Characteristic (VTC)
 
-### SPICE Setup
+### Simulation Cell & SPICE Setup
 
-![SPICE Code VTC](images/spice_vtc.png)
-
-### Simulation Cell
-
-![Simulation Cell](images/simulation_cell_vtc.png)
+![Simulation Cell & SPICE Code VTC](images/VTC/simulation_cell_vtc.png)
 
 ### Vout vs Vin Curves
 
-![VTC Curves](images/vtc_curves.png)
+![VTC Curves](images/VTC/vtc_curves.png)
 
 *Different curves correspond to different inverter sizing ratios.*
 
@@ -124,7 +120,7 @@ Additionally:
 
 ## 3. Noise Margin Analysis
 
-![Noise Margin](images/noise_margin.png)
+![Noise Margin](images/Noise/noise_margin.jpeg)
 
 Noise margins were calculated using:
 
@@ -151,15 +147,15 @@ Noise margins were calculated using:
 
 ### SPICE Setup
 
-![SPICE Delay](images/spice_delay.png)
+![SPICE Delay](images/Delay/spice_delay.png)
 
 ### Simulation
 
-![Delay Simulation](images/delay_simulation.png)
+![Delay Simulation](images/Delay/delay_simulation.png)
 
 ### Vin and Vout vs Time
 
-![Delay Curves](images/delay_curves.png)
+![Delay Curves](images/Delay/delay_curves.png)
 
 ### Key Observations
 
@@ -172,15 +168,15 @@ Noise margins were calculated using:
 
 ### Current vs Time
 
-![Current Curve](images/current_vs_time.png)
+![Current Curve](images/Power/current_vs_time.png)
 
 ### Output Voltage vs Time
 
-![Vout Curve](images/vout_vs_time.png)
+![Vout Curve](images/Power/vout_vs_time.png)
 
 ### Power Consumption
 
-![Power Curve](images/power_vs_time.png)
+![Power Curve](images/Power/power_vs_time.png)
 
 ### Key Observations
 
