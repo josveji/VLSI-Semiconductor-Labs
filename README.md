@@ -41,7 +41,6 @@ The project includes:
 
 * **Electric VLSI Design System** (schematic, layout, DRC, NCC)
 * **SPICE Simulator** (DC and transient simulations)
-* **LaTeX** (documentation)
 
 > All corresponding files (layouts, schematics, SPICE code, and simulation results) are included in this repository.
 
