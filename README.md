@@ -98,7 +98,7 @@ The project includes:
 
 ![NAND2 FO0 Time Results](images/fanout_NAND/nand2_fo0_time_results.png)
 
-### Fan-OutFO4
+### Fan-Out FO4
 
 ![NAND2 FO4](images/fanout_NAND/nand2_fo4.png)
 
